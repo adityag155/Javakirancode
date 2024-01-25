@@ -25,7 +25,9 @@ public class Bitwise2 {
 		System.out.println(0101<<1);
 		
 		System.out.println(0101>>1);
-		
+
+		int d=0101;
+		System.out.println(d);		//Converted in OCTAL
 	}
 
 }
@@ -40,4 +42,5 @@ public class Bitwise2 {
 -501
 130
 32
+65
 */
