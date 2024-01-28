@@ -1,3 +1,5 @@
+//WAP to read no. from command line & display 5 divisible from 1 to given number
+
 package adiiapplication;
 
 public class Forstmnt2 {
