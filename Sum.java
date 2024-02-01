@@ -1,3 +1,6 @@
+//WAP to read no from command line & final the sum of individual digit of given no:
+
+package adiiapplication;
 
 public class Sum {
 
@@ -15,6 +18,7 @@ public class Sum {
 		System.out.println("Sum:"+sum);
 		}
 }
+
 /*
 O/P:
 Sum:6
