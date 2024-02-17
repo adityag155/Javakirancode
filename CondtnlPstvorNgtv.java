@@ -1,5 +1,4 @@
 package adiiapplication;
-
 public class CondtnlPstvorNgtv {
 
 	public static void main(String[] args) {
