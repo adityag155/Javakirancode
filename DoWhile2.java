@@ -17,7 +17,6 @@ public class DoWhile2 {
 			System.out.println("ok"+i);
 		}while(i<n);
 		}
-
 }
 /*
  * O/P:
