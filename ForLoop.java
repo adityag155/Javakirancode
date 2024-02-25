@@ -35,7 +35,6 @@ public class ForLoop {
 		}
 	}
 }
-
 /*
  * O/P:
  * 3
