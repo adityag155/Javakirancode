@@ -20,7 +20,7 @@ StaticInstncMeth si = new StaticInstncMeth();
 
 System.out.println(si.a);
 System.out.println(si.b);
-//si.adi();     			//if we call adi method in main method thts why not printed
+//si.adi();     			//if we call adi method in main method thn it printed
 }
 }
 /*
