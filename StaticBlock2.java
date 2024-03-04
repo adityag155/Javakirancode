@@ -27,6 +27,13 @@ sm.display();
 sm.show();
 StaticMethod sm1=null;
 sm1.show();
+//System.out.println(sm.i); 					//It print 10
+//System.out.println(sm.b);					//It print 20
+
+
+//System.out.println(sm1.i); 					//It print 10
+//System.out.println(sm1.b);					//It give error at runtime
+
 }
 }
 }
