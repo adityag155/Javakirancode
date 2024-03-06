@@ -36,10 +36,32 @@ public class InheritanceEx
 {
 public static void main(String args[])
 {
-A a = new A();
+A a=new A();
 System.out.println(a.a);
 System.out.println(a.b);
 a.m1();
 a.m2();
+
+B b=new B();
+System.out.println(b.a);
+System.out.println(b.b);
+System.out.println(b.c);
+
+b.m1();
+b.m2();
+b.m3();
 }
 }
+
+/*
+10
+20
+I am A-m1
+I am A-m2
+10
+30
+40
+I am A-m1
+I am B-m2
+I am B-m3
+*/
