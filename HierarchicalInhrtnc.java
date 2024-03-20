@@ -45,6 +45,11 @@ D obj3=new D();
 obj1.methodA();
 obj2.methodA();
 obj3.methodA();
+
+obj1.methodA();
+obj2.methodC();
+obj3.methodD();
+
 }
 }
 
@@ -53,4 +58,9 @@ O/P:
 Method of class A
 Method of class A
 Method of class A
+
+
+Method of class A
+Method of class C
+Method of class D
 */
