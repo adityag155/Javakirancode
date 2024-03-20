@@ -26,6 +26,8 @@ D d=new D();
 System.out.println(d.b);			//30
 
 System.out.println(d.c);			//10
+
+//System.out.println(((C)d).c);			//40		//To call 40
 }
 }
 
