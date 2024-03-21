@@ -1,6 +1,5 @@
 package adiiapplication;
 
-
 public class Bitwise2 {
 
 	public static void main(String[] args)
