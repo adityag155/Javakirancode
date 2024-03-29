@@ -18,7 +18,6 @@ void run()
 System.out.println("Running safely");
 }
 }
-
 class AbstrctEx4
 {
 public static void main(String args[])
