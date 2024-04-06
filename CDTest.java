@@ -9,7 +9,6 @@ public int b=30;
 public int c=40;
 }
 
-
 class D extends C
 {
 public int c=10;
