@@ -7,6 +7,8 @@ public static void main(String args[])
 HashSet<String> hs=new HashSet<>();
 hs.add("Sourabh");
 hs.add("Aneesh");
+hs.add("Aneesh");				                        	//No duplication
+hs.add("Ajith");
 System.out.println(hs.size());
 System.out.println(hs);
 
@@ -18,8 +20,9 @@ System.out.println(itr.next());
 
 /*
 O/P:
-2
-[Aneesh, Sourabh]
+3
+[Ajith, Aneesh, Sourabh]
+Ajith
 Aneesh
 Sourabh
 */
